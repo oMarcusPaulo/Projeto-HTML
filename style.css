@@ -49,7 +49,7 @@
 .Agenda{
 
     font-family: "Brandon Grot W01 Light";
-    margin-top: 25px;
+    margin-top: 60px;
 }
 
 
@@ -63,4 +63,44 @@
     font-family: "Avenir LT Pro 35 Light";
     padding-top: 10px;
     font-size: larger;
+}
+
+.Discografia{
+    margin-top: 60px;
+}
+
+#png{
+    position: absolute;
+    left: 600px;
+    padding-top: 60px;
+}
+
+#Gemeos{
+    position: absolute;
+    left: 600px;
+    padding-top: 160px;
+    display: block;
+    height: 40%;
+    width: 12%;
+}
+
+#Violeta{
+    position: absolute;
+    left: 880px;
+    padding-top: 160px;
+    height: 40%;
+    width: 12%;
+}
+
+
+#ENBCS{
+    position: absolute;
+    left: 1160px;
+    padding-top: 160px;
+    height: 40%;
+    width: 12%;
+}
+
+#Discografia{
+    position: relative;
 }
